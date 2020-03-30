@@ -8,7 +8,7 @@ namespace Karapoziuk_ALP_L1
 	{
 		public int numberTrain;
 		public string destinationStation;
-		public int departureTime; //час выдправлення 
+		public int departureTime; //час відправлення 
 		public int arrivalTime;   //час прибуття 
 
 		public Train (int numberTrain, string destinationStation,int departureTime, int arrivalTime)
